@@ -1,9 +1,9 @@
 # 大圣直播录制工具（DSLiveRec） 当前版本【1.0】
 
-目前支持抖音直播的录制
-
-本项目会不定期更新
-
+- 本项目在github的地址是: https://github.com/task8/DSLiveRec
+- 目前支持抖音直播的录制
+- 本项目会不定期更新
+- [有问题在这里提出](https://github.com/task8/DSLiveRec/issues)
 
 
 ## 支持的链接格式
@@ -33,3 +33,8 @@
 ## 赞助作者
 
 <img alt="打赏-微信" src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/IMG_0057(20240319-110004).JPG" style="width: 300px;" />
+
+## 参考项目
+
+- https://github.com/Evil0ctal/Douyin_TikTok_Download_API
+- https://github.com/zhiyiYo/PyQt-Frameless-Window
