@@ -16,20 +16,20 @@
 
 ## 软件下载
 
-[https://wwk.lanzouj.com/igMom1rveyud](https://wwk.lanzouj.com/igMom1rveyud){:target="_blank"}
+[https://wwk.lanzouj.com/igMom1rveyud](https://wwk.lanzouj.com/igMom1rveyud)
 
 
 
 ## 软件截图
 
-<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/DS截图/QQ截图20240319132243.jpg" style="zoom:50%;" />
+<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/DS截图/QQ截图20240319132243.jpg" style="width: 800px;" />
 
-<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/DS截图/QQ截图20240319132313.jpg" style="zoom:50%;" />
+<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/DS截图/QQ截图20240319132313.jpg" style="width: 800px;" />
 
-<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/DS截图/QQ截图20240319132211.jpg" style="zoom:50%;" />
+<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/DS截图/QQ截图20240319132211.jpg" style="width: 400px;" />
 
 
 
 ## 赞助作者
 
-<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/IMG_0057(20240319-110004).JPG" style="zoom: 33%;" />
+<img alt="打赏-微信" src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/IMG_0057(20240319-110004).JPG" style="width: 300px;" />
