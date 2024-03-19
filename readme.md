@@ -22,14 +22,14 @@
 
 ## 软件截图
 
-![](https://img-blog.csdnimg.cn/direct/fc0a05f0c031483fbdb8db2bfc25a572.jpeg)
+<img src="https://img-blog.csdnimg.cn/direct/fc0a05f0c031483fbdb8db2bfc25a572.jpeg" style="zoom:50%;" />
 
-![](https://img-blog.csdnimg.cn/direct/db1d06f6c4724c87abf711822f3223db.jpeg)
+<img src="https://img-blog.csdnimg.cn/direct/db1d06f6c4724c87abf711822f3223db.jpeg" style="zoom:50%;" />
 
-![](https://img-blog.csdnimg.cn/direct/c51467c25c39419eadebfcd947ba3ffe.jpeg)
+<img src="https://img-blog.csdnimg.cn/direct/c51467c25c39419eadebfcd947ba3ffe.jpeg" style="zoom:50%;" />
 
 
 
 ## 赞助作者
 
-![![](https://img-blog.csdnimg.cn/direct/f143c72983404d0dadf73a828ba681bd.jpeg)
+<img src="https://img-blog.csdnimg.cn/direct/f143c72983404d0dadf73a828ba681bd.jpeg" style="zoom: 33%;" />
