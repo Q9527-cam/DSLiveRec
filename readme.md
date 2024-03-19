@@ -22,14 +22,14 @@
 
 ## 软件截图
 
-![https://note.youdao.com/yws/api/personal/file/WEB45608cd6ebbb6d87ff8728b98a0d61c8?method=getImage&version=785&cstk=tkSKZW2-]()
+![https://img-blog.csdnimg.cn/direct/fc0a05f0c031483fbdb8db2bfc25a572.jpeg]()
 
-![https://note.youdao.com/yws/api/personal/file/WEB908e4beb5bbd7f4494d81d51a02e1795?method=getImage&version=783&cstk=tkSKZW2-]()
+![https://img-blog.csdnimg.cn/direct/db1d06f6c4724c87abf711822f3223db.jpeg]()
 
-![https://note.youdao.com/yws/api/personal/file/WEBe12dab04f1e02631dc3ac8f2cd3fd9a9?method=getImage&version=784&cstk=tkSKZW2-]()
+![https://img-blog.csdnimg.cn/direct/c51467c25c39419eadebfcd947ba3ffe.jpeg]()
 
 
 
 ## 赞助作者
 
-![![img](https://note.youdao.com/yws/api/personal/file/WEBed40f4e71b88bf1618dd3467568d5477?method=getImage&version=786&cstk=tkSKZW2-)]()
+![![img](https://img-blog.csdnimg.cn/direct/f143c72983404d0dadf73a828ba681bd.jpeg)]()
