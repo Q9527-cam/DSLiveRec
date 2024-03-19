@@ -16,20 +16,20 @@
 
 ## 软件下载
 
-[https://wwk.lanzouj.com/igMom1rveyud](https://wwk.lanzouj.com/igMom1rveyud)
+[https://wwk.lanzouj.com/igMom1rveyud](https://wwk.lanzouj.com/igMom1rveyud){:target="_blank"}
 
 
 
 ## 软件截图
 
-<img src="https://img-blog.csdnimg.cn/direct/fc0a05f0c031483fbdb8db2bfc25a572.jpeg" style="zoom:50%;" />
+<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/DS截图/QQ截图20240319132243.jpg" style="zoom:50%;" />
 
-<img src="https://img-blog.csdnimg.cn/direct/db1d06f6c4724c87abf711822f3223db.jpeg" style="zoom:50%;" />
+<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/DS截图/QQ截图20240319132313.jpg" style="zoom:50%;" />
 
-<img src="https://img-blog.csdnimg.cn/direct/c51467c25c39419eadebfcd947ba3ffe.jpeg" style="zoom:50%;" />
+<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/DS截图/QQ截图20240319132211.jpg" style="zoom:50%;" />
 
 
 
 ## 赞助作者
 
-<img src="https://img-blog.csdnimg.cn/direct/f143c72983404d0dadf73a828ba681bd.jpeg" style="zoom: 33%;" />
+<img src="https://dssoft-1255464161.cos.ap-nanjing.myqcloud.com/IMG_0057(20240319-110004).JPG" style="zoom: 33%;" />
